@@ -13,4 +13,15 @@
 ## Diversity in Swift: https://swift.org/diversity/
 
 ## Dev blog: https://dev.to
+
+# Learning resources
+
+
  
+## 100 days of Swift https://www.hackingwithswift.com/100
+
+## 100 Days of SwiftUI https://www.hackingwithswift.com/100/swiftui
+
+## GitHub Followers. https://seanallen.teachable.com/p/take-home
+
+## Let's build that app https://www.letsbuildthatapp.com/
